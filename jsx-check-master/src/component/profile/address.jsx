@@ -3,7 +3,7 @@ import React from "react";
 function Address () {
     return(
         <p>
-            No 117 mosholashi road 
+            No 08 obadiah street ilaje road 
             Lagos Nigeria
         </p>
     )

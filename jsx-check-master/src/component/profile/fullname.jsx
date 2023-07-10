@@ -3,7 +3,7 @@ import React from "react";
 function Fullname () {
     return(
         <div>
-            <h1>ADELEYE DANIEL ADEGOKE</h1>
+            <h1>Eze chidera Emmanuel</h1>
         </div>
     )
 };
